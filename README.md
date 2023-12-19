@@ -1,4 +1,4 @@
-# solving_outliers_problems
+# Solving Outliers Problems
 
 In this project, I addressed issues related to outliers using the Titanic dataset. First, we'll define the Titanic dataset with the def_load() function. After briefly reviewing this function, we'll examine outliers in this dataset using the box plot method. Then, we'll proceed to write the following functions in sequence:
 ### outlier_thresholds()
